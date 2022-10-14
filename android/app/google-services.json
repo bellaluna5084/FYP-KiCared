@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "871233096430",
+    "firebase_url": "https://kicaredfinal-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "kicaredfinal",
+    "storage_bucket": "kicaredfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871233096430:android:4dc3caa9ef63b2a65bc1ff",
+        "android_client_info": {
+          "package_name": "com.example.kicared1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871233096430-59lpeq8u6qnt86nentu08cjq0ufmsi4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhhkNHJ_icGalvBowxca728PNVx2elL-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871233096430-59lpeq8u6qnt86nentu08cjq0ufmsi4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871233096430:android:bd20d6ffd36a699a5bc1ff",
+        "android_client_info": {
+          "package_name": "com.example.kicaredfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871233096430-59lpeq8u6qnt86nentu08cjq0ufmsi4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhhkNHJ_icGalvBowxca728PNVx2elL-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871233096430-59lpeq8u6qnt86nentu08cjq0ufmsi4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
